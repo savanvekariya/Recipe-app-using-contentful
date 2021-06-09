@@ -26,7 +26,7 @@ class App extends React.Component {
         <div className='container'>
           <header>
             <div className='wrapper'>
-              <span>React and contentful</span>
+              <span style={{ fontWeight: 50 }}>React and contentful</span>
             </div>
           </header>
           <main>
